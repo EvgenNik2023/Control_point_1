@@ -1,0 +1,15 @@
+/home/evgen/GeekBrans/Control_point_1/less_than_three/bin/Debug/net7.0/less_than_three
+/home/evgen/GeekBrans/Control_point_1/less_than_three/bin/Debug/net7.0/less_than_three.deps.json
+/home/evgen/GeekBrans/Control_point_1/less_than_three/bin/Debug/net7.0/less_than_three.runtimeconfig.json
+/home/evgen/GeekBrans/Control_point_1/less_than_three/bin/Debug/net7.0/less_than_three.dll
+/home/evgen/GeekBrans/Control_point_1/less_than_three/bin/Debug/net7.0/less_than_three.pdb
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.csproj.AssemblyReference.cache
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.AssemblyInfoInputs.cache
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.AssemblyInfo.cs
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.csproj.CoreCompileInputs.cache
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.dll
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/refint/less_than_three.dll
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.pdb
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/less_than_three.genruntimeconfig.cache
+/home/evgen/GeekBrans/Control_point_1/less_than_three/obj/Debug/net7.0/ref/less_than_three.dll
